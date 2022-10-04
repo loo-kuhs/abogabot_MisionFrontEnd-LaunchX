@@ -1,19 +1,13 @@
-#Caso: *AbogaBOT*
+# Caso: *AbogaBOT*
 
-**Tabla de contenidos**
-
-[TOCM]
-
-[TOC]
-
-###Lista de tareas
+### Lista de objetivos:
 - [x] Descripción del caso.
 - [ ] Buyer persona.
 - [ ] Publico objetivo.
 - [ ] Wireframe inicial UX.
 - [ ] Wireframe inicial UI.
 
-##Descripción
+## Descripción
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda el proceso de pago para finalizar la transacción.
 - Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
@@ -24,7 +18,7 @@
 - La página debe de ser responsive para poderla ver desde el celular.
 - La preferencia de colores del cliente es azul marino y blanco.
 
-###Images
+### Images
 
 Image:
 
@@ -35,7 +29,7 @@ Image:
                 
 ----
                     
-###Tables
+### Tables
                     
 First Header  | Second Header
 ------------- | -------------
@@ -66,7 +60,8 @@ Content Cell  | Content Cell
                 
 
                 
-###FlowChart
+
+### FlowChart
 
 ```flow
 st=>start: Login
@@ -79,7 +74,7 @@ cond(yes)->e
 cond(no)->op
 ```
 
-###Sequence Diagram
+### Sequence Diagram
                     
 ```seq
 Andrew->China: Says Hello 
@@ -88,4 +83,4 @@ China-->Andrew: How are you?
 Andrew->>China: I am good thanks!
 ```
 
-###End
+### End
