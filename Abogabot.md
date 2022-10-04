@@ -2,7 +2,8 @@
 
 ### Lista de objetivos:
 - [x] Descripción del caso.
-- [ ] Buyer persona.
+- [ ] Toma de requerimientos.
+  - [ ] Buyer persona.
 - [ ] Publico objetivo.
 - [ ] Wireframe inicial UX.
 - [ ] Wireframe inicial UI.
