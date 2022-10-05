@@ -8,7 +8,7 @@ Este es un caso de estudio para la introducción de la Misión Frontend de *Micr
 ### **Se pide realizar lo siguiente:**
 - [x] [Descripción del caso.](./01.-Abogabot-Descripcion.md)
 - [X] [Toma de requerimientos.](./02.-Abogabot-Requerimientos.md)
-  - [ ] [Buyer persona.](./02.1.-Abogabot-BuyerPersona.md)
+  - [X] [Buyer persona.](./02.1.-Abogabot-BuyerPersona.md)
 - [ ] [Publico objetivo.](./03.-Abogabot-PublicoObjetivo.md)
 - [ ] [Wireframe inicial UX.](./04.-Abogabot-WireframeUX.md)
 - [ ] [Wireframe inicial UI.](./05.-Abogabot-WireframeUI.md)
